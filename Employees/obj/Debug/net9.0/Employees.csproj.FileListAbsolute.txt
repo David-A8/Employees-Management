@@ -1,0 +1,14 @@
+c:\Users\david\Documents\Classes\Winter 2025\Sprint 4\Employees\bin\Debug\net9.0\Employees.exe
+c:\Users\david\Documents\Classes\Winter 2025\Sprint 4\Employees\bin\Debug\net9.0\Employees.deps.json
+c:\Users\david\Documents\Classes\Winter 2025\Sprint 4\Employees\bin\Debug\net9.0\Employees.runtimeconfig.json
+c:\Users\david\Documents\Classes\Winter 2025\Sprint 4\Employees\bin\Debug\net9.0\Employees.dll
+c:\Users\david\Documents\Classes\Winter 2025\Sprint 4\Employees\bin\Debug\net9.0\Employees.pdb
+c:\Users\david\Documents\Classes\Winter 2025\Sprint 4\Employees\obj\Debug\net9.0\Employees.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\david\Documents\Classes\Winter 2025\Sprint 4\Employees\obj\Debug\net9.0\Employees.AssemblyInfoInputs.cache
+c:\Users\david\Documents\Classes\Winter 2025\Sprint 4\Employees\obj\Debug\net9.0\Employees.AssemblyInfo.cs
+c:\Users\david\Documents\Classes\Winter 2025\Sprint 4\Employees\obj\Debug\net9.0\Employees.csproj.CoreCompileInputs.cache
+c:\Users\david\Documents\Classes\Winter 2025\Sprint 4\Employees\obj\Debug\net9.0\Employees.dll
+c:\Users\david\Documents\Classes\Winter 2025\Sprint 4\Employees\obj\Debug\net9.0\refint\Employees.dll
+c:\Users\david\Documents\Classes\Winter 2025\Sprint 4\Employees\obj\Debug\net9.0\Employees.pdb
+c:\Users\david\Documents\Classes\Winter 2025\Sprint 4\Employees\obj\Debug\net9.0\Employees.genruntimeconfig.cache
+c:\Users\david\Documents\Classes\Winter 2025\Sprint 4\Employees\obj\Debug\net9.0\ref\Employees.dll
