@@ -29,11 +29,43 @@ public class Employee
 
     public void displayEmployee()
     {
-        Console.WriteLine($"\nEmployee ID: {employeeId}");
+        Console.WriteLine($"Employee ID: {employeeId}");
         Console.WriteLine($"Name: {name}");
         Console.WriteLine($"Position: {position}");
-        Console.WriteLine($"Hourly Wate: {hourlyWage}");
+        Console.WriteLine($"Hourly Wage: ${hourlyWage}");
         Console.WriteLine($"Email: {email}");
         Console.WriteLine($"Phone Number: {phone}");
+    }
+
+    public int getId()
+    {
+        return employeeId;
+    }
+
+    public void upadteSalary()
+    {
+        Console.WriteLine($"Employee ID: {employeeId}");
+        Console.WriteLine($"Name: {name}");
+        Console.WriteLine($"Position: {position}");
+        Console.WriteLine($"Hourly Wate: ${hourlyWage}");
+        Console.Write($"\nNew Hourly Wage: ");
+        hourlyWage = float.Parse(Console.ReadLine() ?? string.Empty);
+        Console.WriteLine("Salary Updated");
+        Thread.Sleep(2000);
+    }
+
+    public string ExportTxtData()
+    {
+        return ($"{employeeId}:/{name}:/{position}:/{hourlyWage}:/{email}:/{phone}");
+    }
+
+    public void LoadData(string[] Data)
+    {
+        employeeId = int.Parse(Data[0]);
+        name = Data[1];
+        position = Data[2];
+        hourlyWage = float.Parse(Data[3]);
+        email = Data[4];
+        phone = Data[5];
     }
 }

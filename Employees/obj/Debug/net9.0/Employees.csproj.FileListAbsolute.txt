@@ -12,3 +12,4 @@ c:\Users\david\Documents\Classes\Winter 2025\Sprint 4\Employees\obj\Debug\net9.0
 c:\Users\david\Documents\Classes\Winter 2025\Sprint 4\Employees\obj\Debug\net9.0\Employees.pdb
 c:\Users\david\Documents\Classes\Winter 2025\Sprint 4\Employees\obj\Debug\net9.0\Employees.genruntimeconfig.cache
 c:\Users\david\Documents\Classes\Winter 2025\Sprint 4\Employees\obj\Debug\net9.0\ref\Employees.dll
+c:\Users\david\Documents\Classes\Winter 2025\Sprint 4\Employees\obj\Debug\net9.0\Employees.sourcelink.json
