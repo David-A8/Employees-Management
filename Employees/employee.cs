@@ -7,7 +7,7 @@ public class Employee
     private string email = "";
     private string phone = "";
 
-    public void newEmployee(List<Employee> list)
+    public void newEmployee(List<Employee> list) // Function to save new employee's data
     {
         employeeId = list.Count + 1;
         Console.Clear();
@@ -27,7 +27,7 @@ public class Employee
         Thread.Sleep(2000);
     }
 
-    public void displayEmployee()
+    public void displayEmployee() // Function to display employee's data
     {
         Console.WriteLine($"Employee ID: {employeeId}");
         Console.WriteLine($"Name: {name}");
@@ -42,7 +42,7 @@ public class Employee
         return employeeId;
     }
 
-    public void upadteSalary()
+    public void upadteSalary() // Function to update an employee's salary
     {
         Console.WriteLine($"Employee ID: {employeeId}");
         Console.WriteLine($"Name: {name}");
@@ -54,12 +54,12 @@ public class Employee
         Thread.Sleep(2000);
     }
 
-    public string ExportTxtData()
+    public string ExportTxtData() // Puts all the data in a single line to be saved in local file
     {
         return ($"{employeeId}:/{name}:/{position}:/{hourlyWage}:/{email}:/{phone}");
     }
 
-    public void LoadData(string[] Data)
+    public void LoadData(string[] Data) // Gets string data from empoyees list and save the data in variables
     {
         employeeId = int.Parse(Data[0]);
         name = Data[1];

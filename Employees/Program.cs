@@ -1,2 +1,2 @@
 ﻿MainMenu menu = new MainMenu();
-menu.display();
+menu.display(); // Display Main Menu
